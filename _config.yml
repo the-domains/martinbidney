@@ -1,0 +1,82 @@
+typography_spectrum: 0.6443021418145018
+color:
+  brandStrength: 0.37769894722258984
+  lightness: 1
+  saturation: 0.39123805360693376
+  rhythmicContrast: 0.4069487122058094
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+layout_spectrum: 0.8378343371422684
+name: martinbidney
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: ABOUT
+    id: 3170dede-3d93-4659-b465-342af6029b7d
+    type: content
+  - name: BOOKS
+    id: 2a4d4675-5c97-4da2-af3e-cdcd1b71f9bc
+    type: content
+  - name: REVIEWS
+    id: 97438e3d-86d8-464d-b7dc-e9a740753411
+    type: content
+  - name: LATEST NEWS
+    id: 988858c3-36f6-4ad4-9528-a9fa7966a722
+    type: content
+  - name: VIDEO
+    id: cb9a2434-3e15-41d4-9999-2951806405e1
+    type: content
+  - name: MUSIC
+    id: dae16925-e8da-4db0-aa34-99bd4c22969c
+    type: content
+  - name: SOCIAL & CV
+    id: 6d045983-0c50-4730-96af-dd65d36e8690
+    type: content
+title: 'MARTIN BIDNEY: Dialogic Poet, Translator, and Critic'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ebfd543-ce15-42a1-88ce-5d5787df38fb.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ebfd543-ce15-42a1-88ce-5d5787df38fb.png
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: '“Dialogue” or “colloquy” is the keynote of my work as a scholar and poet. '
+purpose:
+  - type: external
+    url: 'https://www.facebook.com/martin.bidney'
+    label: MARTIN BIDNEY on FACEBOOK
+  - type: contact
+    url: 'mailto:mbidney@binghamton.edu'
+    label: Email the Author
+github: true
+author:
+  name: Martin Bidney
+  email: mbidney@binghamton.edu
+  url: 'http://martinbidney.com'
